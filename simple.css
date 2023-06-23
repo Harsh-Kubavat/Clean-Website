@@ -1,0 +1,322 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    height: 6000px;
+}
+
+#nav{
+    background-color:#ebecff ;
+    padding: 40px;
+}
+
+.li1{
+    display: inline;
+    text-transform: none;
+    padding: 10px;     
+}
+
+.ol1{
+padding-left: 410px;
+}
+     
+a{
+    padding-left: 50px;
+    text-decoration: none;
+    justify-content: space-between; 
+    color: black;
+    font-size: 20px;
+}
+
+.card{
+    margin-top: 90px;
+    margin-left: 350px;
+    display: flex;
+}
+
+.maincard1{
+    width: 60%;
+    background-color:#f0f4ff;
+    height: 810px;
+    border-radius: 22px 0px 0px 22px;
+    z-index: 1;
+    position: absolute;
+}
+
+.maincard{
+    width: 40%;
+    height: 550px;
+    background-color:#8e94e0;
+    border-radius: 15px 0px 0px ;
+    margin-top: -343px;
+    margin-left: 580px;
+    display: inline-block;
+}
+
+#maincard{
+    width: 40%;
+    height: 550px;
+    background-color:#8e94e0;
+    border-radius:0px 15px 0px 0px ;
+    margin-top: 81px;
+
+}
+
+h1{
+    font-size: 100px;
+    color: #6870d1;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.image{
+    width: 240px;
+    height: 100px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: none;
+    margin-left: 20px;
+}
+
+
+
+h3{
+    font-family: "Readex Pro";
+    font-size: 19px;
+    color: #6870d1;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#main{
+    width: 140px;
+    background-color: #f0f4ff;
+    height: 45px;
+    margin-top: 75px;
+    margin-left: 75px;
+    border-radius: 7px;
+}
+
+
+
+.maincard2{
+    width: 20%;
+    margin-left: 840px;
+    background-color: #6870d1;
+    height: 810px;
+    border-radius: 0px 22px 22px 0px;
+    z-index: 2;
+}
+
+
+.margin{
+    padding-top: 50px;
+}
+
+#box{
+    display: flex;
+    padding-left: 360px;
+}
+
+.box1{
+    width: 320px;
+    height: 80px;
+    border-radius: 15px 15px 0px 0px;
+    background-color: #6870d1;
+    padding-top: 30px;
+    padding-left: 35px;
+    font-size: 30px;
+    color: whitesmoke;
+}
+
+.box{
+    width: 320px;
+    height: 270px;
+    background-color: #f0f4ff;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.box3{
+    margin-top: 40px;
+ font-size: 20px;
+    margin-left: 40px;
+    color: #3a3e5e;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+.text1  {
+    display: flex;
+    margin-left: 580px;
+}
+
+.text2{
+    background-color: #f0f4ff;
+    height: 500px;
+
+}
+
+.home{
+    margin-left: 60px;
+}
+
+.text3{
+    display: flex;
+    margin-left: 400px;
+}
+
+.ok{
+    display: flex;
+    padding-left: 500px;
+}
+
+.ok2{
+    width:450px;
+    height:280px;
+    background-color: #f0f4ff;
+    margin-left: 25px;
+    border-radius: 15px;
+    color: #3a3e5e;
+}
+
+.ok3{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.image1{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 50PX;
+    padding-top: 50PX;
+   
+}
+
+.image3{
+    border-radius: 15px;
+    margin-left: 40px;
+}
+
+.image2{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 50PX;
+    padding-top: 0PX;
+    padding-bottom: 50px;
+    padding-left: 0px;
+}
+
+.ho{
+    width: 400px;
+    height:180px;
+    background-color: #f0f4ff;
+    margin-top: 50px;
+    margin-left: 730px;
+ border-radius: 20px;
+}
+
+.hoo{
+    font-family: 'Readex Pro', sans-serif;
+    font-size: 20px;
+    margin-top: 22px;
+    margin-left: 20px;
+}
+
+.hooo{
+    font-size: 25px;
+    padding-top: 16px;
+    margin-left: 15px;
+    color: #6870d1;
+}
+
+#box1{
+    display: flex; 
+}
+
+.sub{
+    width: 300px;
+    height: 810px;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 15px;
+}
+
+.sub1{
+    display: flex;
+    margin-left: 390px;
+}
+
+.li2{
+    padding-left: 60px;
+    font-size: 20px;
+    color:#3a3e5e;
+   
+}
+
+.li2:hover{
+    color: #8e94e0;
+}
+
+button{
+    margin-top: 30px;
+    margin-left: 75px;
+    width: 150px;
+    height: 40px;
+    background-color: #8e94e0;
+    border: 0;
+    border-radius: 25px;
+}
+
+button:hover{
+    background-color: #6870d1;
+}
+
+.con{
+    display: flex;
+}
+
+.con1{
+    margin-left: 150px;
+    margin-top: 140px;
+}
+
+.con2{
+    margin-left: 70px;
+    margin-top: 120px;
+    
+}
+
+.con3{
+    font-size: 25px;
+    list-style-type: circle ;
+    
+}
+
+.con5{font-size: 25px;
+    list-style-type: circle ;
+    margin-left: 80px;
+ 
+
+}
+.con4{
+    display: flex;
+    
+}
+
+.foot{
+    
+    display: flex;
+  
+}
+
+.footer{
+    padding-top: 90px;
+    margin-left: 250px;
+    font-size: 22px;
+    color: whitesmoke;
+    font-family: 'Readex Pro', sans-serif;
+}
+
